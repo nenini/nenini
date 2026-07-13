@@ -163,7 +163,6 @@
 <a href="https://solved.ac/kyr0686">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kyr0686" alt="Solved.ac Profile"/>
 </a>
-![kyr0686's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kyr0686)
 
 </div>
 
