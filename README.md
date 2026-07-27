@@ -1,176 +1,170 @@
-[//]: # ([//]: # &#40;## Hi there 👋&#41;)
-[//]: # ()
-[//]: # ()
-[//]: # ([![Typing SVG]&#40;https://readme-typing-svg.demolab.com?font=Momo+Trust+Display&pause=1000&color=F7AFE6&background=FFFFFF&center=true&vCenter=true&width=600&lines=YERIN's+GITHUB&#41;]&#40;https://git.io/typing-svg&#41;)
-
-[//]: # ()
-[//]: # (--- )
-
-[//]: # (### Tools & Technologies I’ve Used 🌱)
-
-[//]: # (<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>)
-
-[//]: # (<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>)
-
-[//]: # (<img src="https://img.shields.io/badge/JAVA-4B4B77?style=flat-square&logo=java&logoColor=white"/>)
-
-[//]: # (<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>)
-
-[//]: # (<br>)
-
-[//]: # (<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>)
-
-[//]: # (<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>)
-
-[//]: # (<img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=Hibernate&logoColor=white"/>)
-
-[//]: # (<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>)
-
-[//]: # (<br>)
-
-[//]: # (<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>)
-
-[//]: # (<img src="https://img.shields.io/badge/Dcoker-2496ED?style=flat-square&logo=docker&logoColor=white"/>)
-
-[//]: # (<img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white"/>)
-
-[//]: # (<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>)
-
-[//]: # (<br>)
-
-[//]: # (<img src="https://img.shields.io/badge/GitHUB-181717?style=flat-square&logo=로고명&logoColor=white"/>)
-
-[//]: # ()
-[//]: # ([![Solved.ac)
-
-[//]: # (프로필]&#40;http://mazassumnida.wtf/api/v2/generate_badge?boj=kyr0686&#41;]&#40;https://solved.ac/kyr0686&#41;)
-
-[//]: # ()
-[//]: # ()
-[//]: # (<div align="center">)
-
-[//]: # ()
-[//]: # ([![Anurag's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=nenini&theme=omni&#41;]&#40;https://github.com/깃허브아이디/github-readme-stats&#41;)
-
-[//]: # ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=nenini&layout=donut&theme=omni&#41;]&#40;https://github.com/nenini/github-readme-stats&#41;)
-
-[//]: # ()
-[//]: # ([//]: # &#40;[![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=nenini&theme=omni&#41;]&#40;https://github.com/nenini/github-readme-stats&#41;&#41;)
-[//]: # ()
-[//]: # ([//]: # &#40;![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=nenini&layout=compact&#41;&#41;)
-[//]: # ()
-[//]: # (</div>)
-
-[//]: # (<!--)
-
-[//]: # (**nenini/nenini** is a ✨ _special_ ✨ repository because its `README.md` &#40;this file&#41; appears on your GitHub profile.)
-
-[//]: # ()
-[//]: # (Here are some ideas to get you started:)
-
-[//]: # ()
-[//]: # (- 🔭 I’m currently working on ...)
-
-[//]: # (- 🌱 I’m currently learning ...)
-
-[//]: # (- 👯 I’m looking to collaborate on ...)
-
-[//]: # (- 🤔 I’m looking for help with ...)
-
-[//]: # (- 💬 Ask me about ...)
-
-[//]: # (- 📫 How to reach me: ...)
-
-[//]: # (- 😄 Pronouns: ...)
-
-[//]: # (- ⚡ Fun fact: ...)
-
-[//]: # (-->)
-<!-- Center all main content -->
 <div align="center">
 
-<!-- Title -->
-<h1>Hi, I'm Yerin 👋</h1>
+# Hi, I'm Yerin 👋
 
-<!-- Typing banner -->
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Momo+Trust+Display&pause=1000&color=F7AFE6&center=true&vCenter=true&width=400&lines=YERIN's+GITHUB"
-    alt="Typing SVG" />
+### Backend Developer
+
+Java & Spring Boot를 기반으로  
+**안정성과 확장성을 고려한 백엔드 시스템**을 개발합니다.
+
+실패와 재시도, 데이터 정합성, 비동기 처리 구조를 고민하고  
+AI 기능을 실제 서비스 흐름에 안정적으로 연결하는 데 관심이 있습니다.
+
+<br/>
+
+<a href="mailto:kyr0686@naver.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/nenini">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## Tools & Technologies I’ve Used ✏️
+## 👩🏻‍💻 About Me
 
-<!-- Tech stack: grouped by area -->
-<div align="center">
-
-<!-- Languages -->
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-4B4B77?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-
-<br/>
-
-<!-- Backend / Frameworks -->
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
-<img src="https://img.shields.io/badge/JPA%2FHibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-
-<br/>
-
-<!-- DB / DevOps -->
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-
-<br/>
-
-<!-- Tools -->
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-
-</div>
+- Java / Spring Boot 기반 백엔드 개발을 중심으로 공부하고 있습니다.
+- 정상 동작뿐 아니라 **실패, 재시도, 중복 요청, 데이터 정합성**까지 고려하는 개발에 관심이 있습니다.
+- Redis 기반 비동기 처리, AI API 연동, Docker 기반 배포를 경험했습니다.
+- 구현 이후 테스트와 성능 측정을 통해 구조를 개선하는 과정을 중요하게 생각합니다.
 
 ---
 
-## Stats
+## 🛠 Tech Stack
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+</p>
+
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA%2FHibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+</p>
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+</p>
+
+### Database & Infra
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
+</p>
+
+### Tools
+<p>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</p>
+---
+
+## 🚀 Featured Projects
+
+### 01. JobQ
+> **Fault-Tolerant Distributed Job Queue**
+
+`Java` `Spring Boot` `Redis Streams` `PostgreSQL` `Prometheus` `k6`
+
+외부 API 실패와 지연 상황에서도 작업을 안정적으로 처리하기 위해  
+직접 설계한 비동기 Job 처리 시스템입니다.
+
+- Retry, DLQ, Idempotency, Lease 기반 신뢰성 구조 설계
+- Testcontainers 기반 Job 생성 → 처리 → DLQ → Replay 흐름 검증
+- 약 **40,000건 부하 테스트**
+- DB I/O 개선 후 평균 응답 시간 **9.15ms → 8.35ms**
+
+🔗 [Repository](https://github.com/nenini/JobQ)
+
+<br/>
+
+### 02. Trendlog
+> **Personalized Trend Analysis & Recommendation**
+
+`Spring Boot` `PostgreSQL` `Redis` `FastAPI` `Docker` `AWS EC2`
+
+사용자 활동과 외부 데이터를 활용해  
+트렌드 분석과 개인화 추천을 제공하는 서비스입니다.
+
+- Spring Boot와 FastAPI 기반 추천 서비스 연동
+- LightFM 개인화 추천 및 SentenceTransformer 유사 트렌드 분석
+- 추천 컨테이너 메모리 사용량 약 **500MiB 수준으로 안정화**
+- 컨테이너 **재시작 0건**, 추천 정확도 **93.6% 유지**
+
+🔗 [Repository](https://github.com/sssu22/BACK)
+
+<br/>
+
+### 03. DotDot
+> **AI Meeting Assistant**
+
+`Spring Boot` `MySQL` `React` `OpenAI API` `Google Search API`
+
+회의 기록 이후 요약부터 후속 업무 정리까지 연결하는  
+AI 회의 관리 서비스입니다.
+
+- STT → 요약 → 자료 추천 → 태스크 추출 후처리 파이프라인 설계
+- Chunking + Map-Reduce 방식으로 장시간 회의 처리 구조 개선
+- OpenAI 기반 검색 질의 생성 및 검색 결과 재정렬
+- **2025 IT 프로젝트 프로리그 우수상**
+
+🔗 [Repository](https://github.com/DotDot5/DotDot_BE)
+
+---
+
+## 🎓 Experience
+
+**Samsung Software & AI Academy, SSAFY 15th**  
+Java · Web · Algorithm · AI
+
+**B.S. in Computer Science, Soongsil University**
+
+---
+
+## 🧩 Algorithm & GitHub
 
 <div align="center">
 
-<!-- Two cards side by side -->
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/nenini/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=nenini&theme=omni&show_icons=true" alt="GitHub Stats"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/nenini/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nenini&layout=donut&theme=omni&langs_count=8" alt="Top Langs"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<!-- solved.ac -->
 <a href="https://solved.ac/kyr0686">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kyr0686" alt="Solved.ac Profile"/>
+  <img
+    src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kyr0686"
+    height="150"
+    alt="Solved.ac Profile"/>
 </a>
+
+<br/><br/>
+
+<img
+  height="160"
+  src="https://github-readme-stats.vercel.app/api?username=nenini&show_icons=true&theme=omni"
+  alt="GitHub Stats"/>
+
+<img
+  height="160"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nenini&layout=compact&theme=omni"
+  alt="Top Languages"/>
 
 </div>
 
-<!-- Optional: mini section links
-## Currently Learning
-- Spring Security with JWT
-- Expo / React Native
+---
 
-## Contact
-- Email: yeana6868@gmail.com
--->
+<div align="center">
+
+### 📫 Contact
+
+**kyr0686@naver.com**
+
+</div>
