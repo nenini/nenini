@@ -70,6 +70,7 @@ AI 기능을 실제 서비스 흐름에 안정적으로 연결하는 데 관심�
 <p>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>
+
 ---
 
 ## 🚀 Featured Projects
