@@ -135,7 +135,7 @@ Java · Web · Algorithm · AI
 
 ---
 
-## 🧩 Algorithm & GitHub
+## 🧩 Algorithm
 
 <div align="center">
 
@@ -146,22 +146,31 @@ Java · Web · Algorithm · AI
     alt="Solved.ac Profile"/>
 </a>
 
-<br/><br/>
-
-<img
-  height="160"
-  src="https://github-readme-stats.vercel.app/api?username=nenini&show_icons=true&theme=omni"
-  alt="GitHub Stats"/>
-
-<img
-  height="160"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nenini&layout=compact&theme=omni"
-  alt="Top Languages"/>
-
 </div>
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nenini&theme=github_dark"
+  width="650"
+/>
+
+<br/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nenini&theme=github_dark"
+  width="320"
+/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nenini&theme=github_dark"
+  width="320"
+/>
+
+</div>
 <div align="center">
 
 ### 📫 Contact
