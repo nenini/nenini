@@ -152,25 +152,17 @@ Java · Web · Algorithm · AI
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=nenini&show_icons=true&theme=github_dark&hide_border=true"
+    width="42%"
+  />
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nenini&layout=compact&theme=github_dark&hide_border=true"
+    width="42%"
+  />
+</p>
 
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nenini&theme=github_dark"
-  width="650"
-/>
-
-<br/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nenini&theme=github_dark"
-  width="320"
-/>
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nenini&theme=github_dark"
-  width="320"
-/>
-
-</div>
 <div align="center">
 
 ### 📫 Contact
